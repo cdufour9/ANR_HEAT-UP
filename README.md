@@ -19,3 +19,4 @@ advances on the characterization and quantification of the impact of mesoscale p
 transport in the context of sea ice decline. Doing so, the project will inform the development of
 parameterizations of mesoscale processes in ocean models and the interpretation and deployment of
 observations in polar regions.
+
