@@ -1,4 +1,4 @@
-# ANR_HEAT-UP
+# ANR HEAT-UP
 **A project funded by the French ANR to advance our understanding of the role of ocean mesoscale processes on heat transport from the subpolar regions to the sea ice in both hemispheres.**
 
 
