@@ -20,3 +20,4 @@ transport in the context of sea ice decline. Doing so, the project will inform t
 parameterizations of mesoscale processes in ocean models and the interpretation and deployment of
 observations in polar regions.
 
+![Alt text](Mercator_hierarchy_SST_Nordic_Seas_20180315.png)
