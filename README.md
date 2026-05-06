@@ -21,3 +21,14 @@ parameterizations of mesoscale processes in ocean models and the interpretation 
 observations in polar regions.
 
 ![Alt text](Mercator_hierarchy_SST_Nordic_Seas_20180315.png)
+
+**News**
+- Jan. 1st 2026: The project started!
+- Feb. 22-27 2026: Participation to the Ocean Sciences Meeting and Feb. 28 - Mar. 1st: Participation to the Polar Heat workshop in Glasgow, UK.
+- Feb. 2nd 2026: Salar Karam arrived in the team to work on the investigation of the build-up of the subsurface heat reservoir in the Antarctic from synthetic data for his postdoctoral project. Louise Ferraris arrived the same day to work on the observability of mesoscale eddies under Antarctic sea ice from altimetry data for her MSc internship.
+- Mar. 19th 2026: Kickoff meeting of the project.
+
+
+**Publications**
+
+Martin, T., Dufour, C. O., Meijers, A. J. S., and Hancock, A. M.: Opinion: status, plans and needs of Southern Ocean modelling, Ocean Sci., 22, 1429–1437, https://doi.org/10.5194/os-22-1429-2026, 2026. 
