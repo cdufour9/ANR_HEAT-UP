@@ -24,9 +24,11 @@ observations in polar regions.
 
 **News**
 - Jan. 1st 2026: The project started!
-- Feb. 22-27 2026: Participation to the Ocean Sciences Meeting and Feb. 28 - Mar. 1st: Participation to the Polar Heat workshop in Glasgow, UK.
 - Feb. 2nd 2026: Salar Karam arrived in the team to work on the investigation of the build-up of the subsurface heat reservoir in the Antarctic from synthetic data for his postdoctoral project. Louise Ferraris arrived the same day to work on the observability of mesoscale eddies under Antarctic sea ice from altimetry data for her MSc internship.
+- Feb. 5th 2026: First outreach session in a primary school as part of the <a href= https://adoptafloat.com/>Adopt-a-Float program</a> to present Argo floats, what they do and what we use their measurements for.
+- Feb. 22-27 2026: Participation to the Ocean Sciences Meeting and Feb. 28 - Mar. 1st: Participation to the Polar Heat workshop in Glasgow, UK.
 - Mar. 19th 2026: Kickoff meeting of the project.
+- Apr. 2nd 2026: Second outreach session in a primary school as part of the <a href= https://adoptafloat.com/>Adopt-a-Float program</a> to explain the formation of dense waters.
 
 
 **Publications**
