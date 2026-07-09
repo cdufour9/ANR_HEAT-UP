@@ -34,4 +34,4 @@ observations in polar regions.
 **Publications**
 
 - Martin, T., Dufour, C. O., Meijers, A. J. S., and Hancock, A. M.: Opinion: status, plans and needs of Southern Ocean modelling, Ocean Sci., 22, 1429–1437, https://doi.org/10.5194/os-22-1429-2026, 2026. 
-- Spira, T., C. O. Dufour, I. Frenger, B. Richaud and Coauthors (under review): No longer polar opposites: The Arctic and the Antarctic are converging towards a seasonally dominated sea-ice regime. Essay in Bulletin of the American Meteorology Society. Open Access version: <a href = https://essopenarchive.org/doi/full/10.22541/essoar.176229943.38616843/v2>link<\a>.
+- Spira, T., C. O. Dufour, I. Frenger, B. Richaud and Coauthors (under review): No longer polar opposites: The Arctic and the Antarctic are converging towards a seasonally dominated sea-ice regime. Essay in Bulletin of the American Meteorology Society. Open Access version: <a href = https://essopenarchive.org/doi/full/10.22541/essoar.176229943.38616843/v2>link</a>.
